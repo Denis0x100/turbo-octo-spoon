@@ -16,4 +16,4 @@
     1) HFU
     1) Praktikum bei Unternehmen
 
-! [java-code](https://raw.githubusercontent.com/Robin-Sb/turbo-octo-spoon/picture/linereader2.png)
+![java code](https://raw.githubusercontent.com/Robin-Sb/turbo-octo-spoon/picture/linereader2.png)

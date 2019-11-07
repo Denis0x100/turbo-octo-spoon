@@ -1,6 +1,9 @@
 Einkaufsliste:
 
 Grumbre
+Bier
 Äpfel
+Bier
 Bananen
+Bier
 Rest

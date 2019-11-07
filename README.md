@@ -1,12 +1,12 @@
 # Lebenslauf:
 
 ### Werdegang
-5. Kindergarten
+1. Kindergarten
 3. Grundschule
 5. Gymnasium
 6. Studium
-     2. HFU
-     3. Praktikum bei Unternehmen
+    2. HFU
+    3. Praktikum bei Unternehmen
 
 |            | Daten     |
 | ---------- |---------- |

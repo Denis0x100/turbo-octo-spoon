@@ -8,7 +8,7 @@
 | Geburtstag | 08.09     |
 
 
-### Werdegang
+## Werdegang
 1) Kindergarten
 1) Grundschule
 1) Gymnasium

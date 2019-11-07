@@ -1,15 +1,20 @@
 # Lebenslauf:
 
-### Werdegang
-1. Kindergarten
-3. Grundschule
-5. Gymnasium
-6. Studium
-    2. HFU
-    3. Praktikum bei Unternehmen
 
 |            | Daten     |
 | ---------- |---------- |
 | Name       | Robin     |
 | Vorname    | Sb        |
 | Geburtstag | 08.09     |
+
+
+### Werdegang
+1) Kindergarten
+1) Grundschule
+1) Gymnasium
+1) Studium
+    1) HFU
+    1) Praktikum bei Unternehmen
+
+
+
